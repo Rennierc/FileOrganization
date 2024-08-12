@@ -1,2 +1,1 @@
-# FileOrganization
-File Organization Script: A Python script that organizes files on your Desktop by automatically moving them into folders based on their file types. It's a quick and efficient way to keep your Desktop tidy.
+![image](https://github.com/user-attachments/assets/6cdbe298-1a3e-4276-aac3-52a2182fb057)
